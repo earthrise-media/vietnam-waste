@@ -1,0 +1,74 @@
+No,Province,Name of landfill,Management Unit,Location,Area (ha),Capacity (tons/day),Actual Capacity (tons/day),Waste processing techniques,Scope of service,Note,detected,latitude,longitude,no_dump,uncertain
+1,Ha Tinh,Nhà máy chế biến phân hữu cơ từ rác thải sinh hoạt ,Công ty CP môi trường và quản lý đô thị Hà Tĩnh ,"Xã Cẩm Quan, huyện Cẩm Xuyên, tỉnh Hà Tĩnh",3.6,  200 ,130,"Dây chuyền công nghệ  xử lý của Bỉ có cải tiến, bao gồm: dây chuyền tách lọc trước ủ, dây chuyền sản xuất phân hữu cơ, tách lọc sau ủ, dây chuyền lò đốt.",Thành phố Hà Tĩnh và huyện Cẩm Xuyên,QĐ số 2585/QĐ-UBND ngày 05/8/2011; QĐ số 4174/QĐ-UBND ngày 30/10/2015,,18.22222222222222,105.99527777777777,,
+2,Ha Tinh,Nhà máy chế biến rác thải sinh hoạt Hoành Sơn ,Công ty TNHH MTV chế biến rác thải sinh hoạt Hoành Sơn,"Thôn Nam Xuân Sơn, xã Kỳ Tân, huyện Kỳ Anh",15,  240 ,80,"Chế biến phân vi sinh, lò đốt chất thải sinh hoạt","Công ty Formosa, Thị xã Kỳ Anh, 12/21 xã thuộc huyện Kỳ Anh",QĐ số 2626/QĐ-UBND ngày 12/9/2014 của UBND tỉnh,false,18.05611111111111,106.29916666666666,true,false
+3,Ha Tinh,Nhà máy xử lý rác thải Can Lộc,Công ty TNHH thương mại và xử lý môi trường Can Lộc,"Khối Bắc Sơn, thị trấn Nghèn, huyện Can Lộc",6.4,  40 ,40,Chôn lấp hợp vệ sinh và chế biến phân vi sinh,Huyện Can Lộc,QĐ số 432/QĐ-UBND ngày 07/2/2017 của UBND tỉnh,,18.455555555555556,105.79194444444444,,
+4,Ha Tinh,Bãi chôn lấp CTR sinh hoạt thị xã Hồng Lĩnh,Công ty CP môi trường đô thị Hồng Lĩnh,"Phường Nam Hồng, thị xã Hồng Lĩnh",4.2,36,28.7,Chôn lấp hợp vệ sinh,Thị xã Hồng Lĩnh,QĐ số 1616/QĐ-UBND ngày 06/6/2012 ,true,18.511666666666667,105.70527777777778,false,false
+5,Ha Tinh,Bãi chôn lấp CTR huyện Lộc Hà,UBND huyện Lộc Hà,Xã Hồng Lộc,4.9,54.85,23.7,Chôn lấp hợp vệ sinh,Huyện Lộc Hà,QĐ số 3584/QĐ-UBND ngày 11/11/2011 ,true,18.503888888888888,105.82,false,false
+6,Ha Tinh,Bãi chôn lấp CTR thị trấn Vũ Quang,UBND thị trấn Vũ Quang,Thị trấn Vũ Quang,0.7,2,1.5,Chôn lấp hợp vệ sinh,"Thị trấn Vũ Quang, một số thôn của xã Sơn Thọ",,false,18.400277777777777,105.52194444444444,true,false
+7,Ha Tinh,"Bãi chôn lấp CTR sinh hoạt tại khối phố 6, thị trấn Tây Sơn",Ban quản lý Khu KT cửa khẩu Cầu Treo,"Khối phố 6, thị trấn Tây Sơn, huyện hương Sơn",2.1,10,10, Bãi chôn lấp hợp vệ sinh;,"4 xã trong khu kinh tế (Tây Sơn, Sơn Tây, Sơn Kim 1, Sơn Kim 2)",Đến năm 2020 sức chứa còn lại khoảng 200.000m3,true,18.461111111111112,105.29277777777777,false,false
+8,Ha Tinh,Lò đốt rác thải Cương Gián,HTX dịch vụ môi trường Tân Phát ,"Thôn Nam Sơn,  xã Cương Gián, huyện Nghi Xuân",2.1,16.8,11.2,Lò đốt rác thải sinh hoạt Loshiho sản xuất trong nước (Nam Định),7 xã của huyện Nghi Xuân,Quyết định số 1383/QĐ-UBND ngày 02/6/2016 của UBND tỉnh,false,18.560555555555556,105.8325,true,false
+9,Ha Tinh,Lò đốt rác thải sinh hoạt Xuân Thành,Công ty TNHH dịch vụ môi trường Nghi Xuân ,"Xã Xuân Thành, huyện Nghi Xuân",1.2,24,16,Lò đốt  rác thải sinh hoạt Sankyo GF-1500,"12 xã, thị trấn của huyện Nghi Xuân",Quyết định số 66/QĐ-UBND ngày 07/01/2014 của UBND tỉnh,true,18.61888888888889,105.79388888888889,false,false
+10,Ha Tinh,Lò đốt rác thải sinh hoạt Phù Việt,HTX Môi trường xã Phù Việt,"Xã Phù Việt, huyện Thạch Hà",0.87,7.2,5,Lò đốt không sử dụng nhiêu liệu- công nghệ sản xuất trong nước (Công ty Tràng An Xanh),"05 xã huyện Thạch Hà: xã Phù Việt, Thạch Kênh, Thạch Liên, Thạch Long và Thạch Thanh.",QĐ số 11328/QĐ-UBND ngày 21/12/2016 của UBND huyện Thạch Hà,,18.395833333333332,105.81638888888888,,
+11,Ha Tinh,Lò đốt rác thải sinh hoạt Phố Châu,HTX DV môi trường Xuân Yên,Thị trấn Phố Châu- huyện Hương Sơn,3.8,14.4,7.5,Lò đốt rác thải sinh hoạt Loshiho sản xuất trong nước (Nam Định),"thị trấn Phố Châu và dọc đường Quốc lộ 8A qua Sơn Trung, Sơn Phú, Sơn Giang ",Quyết định 5978/QĐ-UBND ngày 20/12/2017 của UBND huyện Hương Sơn,false,18.502222222222223,105.41388888888889,true,false
+12,Ha Tinh,"Lò đốt rác thải sinh hoạt Thạch Trị, Thạch Lạc",,"Xã Thạch Trị, Thạch Lạc, huyện Thạch Hà",1,  24 ,18,"Lò đốt rác sinh hoạt SANKYO, công nghệ Nhật Bản","10 xã: Thạch Hải, Thạch Khê, Thạch Đỉnh, Thạch Bàn, Thạch Văn, Thạch Hội, Thạch Trị, Thạch Lạc, Thạch Thắng và Tượng Sơn",Hiện mới hòan thành các thủ tục đầu tư và thủ tục môi trường,false,18.37666666666667,105.97416666666666,false,true
+13,Ha Tinh,Bãi rác xã Hương Trạch,,"Xã Hương Trạch, huyện Hương Khê",,,,,,,,18.08861111111111,105.79333333333334,,
+14,Quang Binh,Bãi rác chung Đồng Hới - Bố Trạch,CPC of Dong Hoi,"Ly Trach Commune, Bo Trach district, Quang Binh Province",22.50,50,,,,,false,17.5025,106.5436111111111,false,false
+15,Quang Binh,Bãi rác huyện Quảng Ninh,DPC of Quang Ninh,"Vinh Ninh commune, Quang Ninh district, Quang Binh province",4.40,100,,,,,true,17.401944444444442,106.5961111111111,false,false
+16,Quang Binh,Bãi rác huyện Lệ Thuỷ,DPC of Le Thuy,"Truong Thuy commune, Le Thuy District, Quang Binh province",2.50,70,,,,,,17.12638888888889,106.76694444444445,,
+17,Quang Binh,"Bãi rác Quảng Lưu, huyện Quảng Trạch",DPC of Quang Trach,"Quang Luu and Quang Tien Communes, Quang Trach district, Quang Binh province",1.60,100,,,,,true,17.83888888888889,106.38805555555557,false,false
+18,Quang Binh,Bãi rác huyện Tuyên Hoá,DPC of Tuyen Hoa,"Dong Le Town, Tuyen Hoa district, Quang Binh province",6.20,30,,,,,true,17.87611111111111,106.00472222222223,false,false
+19,Quang Binh,Bãi rác xã Lâm Hóa,,"Xã Lâm Hoá, huyện Tuyên Hóa",,,,,,,true,17.940833333333334,105.81083333333333,false,false
+20,Quang Binh,Bãi rác xã Văn Hóa,,"Xã Văn Hoá, huyện Tuyên Hóa",,,,,,,true,17.771666666666665,106.25777777777778,false,false
+21,Quang Binh,Bãi rác huyện Minh Hoá,DPC of Minh Hoa,"Hong Hoa commune, Minh Hoa district, Quang Binh province",2.40,10,,,,,,17.87472222222222,105.95916666666668,,
+22,Quang Binh,Bãi rác Cha Lo,DPC of Tuyen Hoa ,"Dan Hoa commune, Tuyen Hoa district, Quang Binh province",0.81,1,,,,,false,17.733888888888888,105.78027777777778,false,true
+23,Quang Binh,"Nhà máy phân loại xử lý rác thải, sản xuất biogas và phân bón khoáng hữu cơ của Công ty TNHH Phát triển dự án Việt Nam",,"Xã  Nam Trạch và Lý Trạch, huyện Bố Trạch, tỉnh Quảng Bình",5.62,245,,,,,,17.502222222222223,106.54333333333334,,
+24,Thua Thien Hue,Bãi xử lý rác Thủy Phương,HEPCO company,"Thủy Phung, Hương Thủy, Thừa Thiên Huế, Việt Nam",4.8,,247,,"TP Huế, Hương Thủy, Hương, Trà, Phú Lộc",,true,16.3975,107.63722222222223,false,false
+25,Thua Thien Hue,Nhà máy xử lý rác Phú Sơn,,"Phú Sơn, Hương Thủy, Thừa Thiên Huế, Việt Nam",65,600,,,"TP Huế, Hương Thủy, Hương Trà, Phú Lộc",,false,16.328055555555554,107.65694444444445,true,false
+26,Thua Thien Hue,Bãi chôn lấp Lộc Thủy,HEPCO company,"Xã Lộc Thủy, huyện Phú Lộc, tỉnh Thừa Thiên Huế:","2,67",,,,Phú Lộc,,,16.254444444444445,107.92194444444445,,
+27,Thua Thien Hue,Bãi chôn lấp Quảng Lợi,Phòng KT-HT H. Quảng Điền,"Xã Quảng Lợi, huyện Quảng Điền",1.8,,,,H. Quảng Điền,,,16.597777777777775,107.45527777777778,,
+28,Thua Thien Hue,Bãi chôn lấp Phong Thu,UBND xã Phong Thu,"Xã Phong Thu, huyện Phong Điền",1.65,,,,H.Phong Điền,,true,16.579444444444444,107.32583333333334,false,false
+29,Thua Thien Hue,Bãi chôn lấp Hồng Thượng,Ban CTCC&DVCL,"Thôn Cân Sâm, xã Hồng Thượng, huyện  A Lưới",1.05,,,,H. A Lưới,,true,16.221666666666664,107.26083333333334,false,false
+30,Thua Thien Hue,Bãi chôn lấp Hương Phú,"UBND huyện
+Nam Đông
+","Thôn Phú Hòa,  xã Hương Phú, huyện Nam Đông",0.9,,,,H. Nam Đông,,,16.19611111111111,107.71055555555556,,
+31,Quang Nam,Khu xử lý rác thải Tam Xuân 2,Quang Nam Urban Environment JSC (QNAM-URENCO),"Tam Xuân 2, Núi Thành, Quảng Nam, Việt Nam",20,,350,,"Tam Kỳ, Phú Ninh, Tiên Phước, Hiệp Đức, Quế Sơn, Thăng Bình",,,15.504722222222222,108.51194444444444,,
+32,Quang Nam,Khu xử lý rác thải Tam Nghĩa,Quang Nam Urban Environment JSC (QNAM-URENCO),"Tam Nghĩa, Núi Thành, Quảng Nam, Việt Nam",5.2,,80,,Núi Thành,,,15.3925,108.66722222222222,,
+33,Quang Nam,Khu xử lý rác thải Đại Hiệp,Quang Nam Urban Environment JSC (QNAM-URENCO),"Đại Hiệp, Đại Lộc, Quảng Nam, Việt Nam",11.2,,240,,"Duy Xuyên, Điện Bàn, Đại Lộc",,,15.915555555555557,108.1075,,
+34,Quang Nam,Bãi rác Cẩm Hà,Hoi An Public Works Joint Stock Sompany,"Thôn Bàu Ốc Thượng, xã Cẩm Hà, thành phố Hội An",1.3,,96,,,,true,15.904722222222222,108.30361111111111,false,false
+35,Quang Nam,Khu xử lý rác thải Đông Phú ,DPC of  Dong Phu town,"Thị trấn Đông Phú, huyện Quế Sơn",1,,6,,Thị trấn Đông Phú,,,15.680277777777777,108.21166666666667,,
+36,Quang Nam,Khu xử lý rác thải xã Ba ,DPC of  Ba commune,"Thôn 6, xã Ba, huyện Đông Giang",3,,6,,Xã Ba và xã Tư ,,,15.98,107.89861111111112,,
+37,Quang Nam,Khu xử lý rác thải Trà Sơn,Phòng TN&MT huyện Bắc Trà My,"Thôn Mậu Long (nay là thôn Long Sơn), xã Trà Sơn, huyện Bắc Trà My",7,,8,,Huyện Bắc Trà My,,,15.33388888888889,108.18277777777779,,
+38,Quang Nam,Khu xử lý rác thải Khâm Đức,Ban Quản lý đô thị huyện Phước Sơn,"Thị trấn Khâm Đức, huyện Phước Sơn",3.2,,20,,Huyện Phước Sơn,,true,15.434166666666666,107.80722222222222,false,false
+39,Quang Nam,Khu xử lý rác thải Thạnh Mỹ ,Phòng TN&MT huyện Nam Giang,"Thôn Hoa, thị trấn Thạnh Mỹ",1.2,,6,,Huyện Nam Giang,,,15.770277777777778,107.83444444444444,,
+40,Quang Nam,Khu xử lý rác thải Atiêng ,Đội Quản lý trật tự xây dựng huyện Tây Giang,"Thôn Achiing, xã Atiêng, huyện Tây Giang",1.5,,6.6,,Huyện Tây Giang,,false,15.9175,107.50194444444445,true,false
+41,Quang Nam,Khu xử lý rác thải Quế Trung ,Phòng TN&MT huyện Nông Sơn,"Thôn Trung Viên (nay là thôn Phước Viên), xã Quế Trung, huyện Nông Sơn",1.02,,6,,Huyện Nông Sơn,,true,15.700833333333332,108.07194444444444,false,false
+42,Da Nang,Bai Rac Khanh Son,Công ty Cổ phần Môi trường Đô thị Đà Nẵng ,"Phường Hòa Khánh Nam, quận Liên Chiểu",13.83,,1132,,Thành phố Đà Nẵng,,true,16.04138888888889,108.1413888888889,false,false
+43,Phu Yen,Bãi chôn lấp rác thải tại thôn Thọ Vức,,"Thôn Thọ Vức, Xã Hòa Kiến, tp Tuy Hòa",10.4,,,Chôn lấp hợp vệ sinh,,,,13.136388888888888,109.24083333333333,,
+44,Phu Yen,Bãi chôn lấp rác thải trung tâm thị xã Sông Cầu,,"Thôn Lệ Uyên, xã Xuân Phương, thị xã Sông Cầu",5.4,,,Chôn lấp hợp vệ sinh,,,,13.527222222222223,109.21305555555556,,
+45,Phu Yen,Bãi rác Dinh Bà,,"Thôn Hảo Danh, xã Xuân Thọ 2, thị xã Sông Cầu",1.2,,,Bãi lộ Thiên,,,false,13.377777777777778,109.17972222222222,true,false
+46,Phu Yen,Bác rác thị trấn Chí Thạnh,,"Thị trấn Chí Thạnh, huyện Tuy An",1,,,Chôn lấp không hợp vệ sinh,,,true,13.272222222222224,109.21694444444445,false,false
+49,Phu Yen,Bãi rác tập trung của huyện Tây Hòa,,"Xã Hòa Phong, huyện Tây Hòa",10,,,Chôn lấp không hợp vệ sinh,,,,12.975277777777778,109.18527777777778,,
+50,Phu Yen,"Bãi chôn lấp rác thải thị trấn Củng Sơn, huyện Sơn Hòa",,"KP Trung Hòa, thị trấn Củng Sơn, huyện Sơn Hòa",0.5,,,Chôn lấp không hợp vệ sinh,,,false,13.061388888888889,108.97083333333333,true,false
+51,Phu Yen,Bãi rác huyện Sơn Hòa,,"Suối Bạc, huyện Sơn Hòa",1.3,,,Chôn lấp không hợp vệ sinh,,,,13.08888888888889,108.96833333333333,,
+52,Phu Yen,Bãi chứa rác tập trung xã Sơn Hà,,"Xã Sơn Hà, huyện Sơn Hoà",0.09,,,Chôn lấp không hợp vệ sinh,,,,13.0475,109.04388888888889,,
+53,Phu Yen,Khu chứa rác tập trung xã Sơn Xuân,,"Xã Sơn Xuân, huyện Sơn Hòa",0.05,,,Chôn lấp không hợp vệ sinh,,,false,13.15638888888889,109.115,true,false
+54,Phu Yen,Khu chứa rác tập trung xã Sơn Định,,"Xã Sơn Định, huyện Sơn Hòa",0.08,,,Chôn lấp không hợp vệ sinh,,,false,13.190277777777778,109.03416666666666,true,false
+55,Phu Yen,Bãi rác tạm thời huyện Đồng Xuân,,"Xã Xuân Quang 2, huyện Đồng Xuân",2,,,Chôn lấp không hợp vệ sinh,,,,13.371944444444445,109.06305555555555,,
+56,Phu Yen,Bãi rác của thị trấn Hai Riêng,,"Buôn Ken, xã Ea Bá, huyện Sông Hinh",10,,,Bãi lộ Thiên,,,true,13.000555555555556,108.86861111111111,false,false
+57,Phu Yen,Bãi rác công cộng huyện Đông Hòa,,"Thôn Nam Bình 1, xã Hòa Xuân Tây, huyện Đông Hòa",3,,,Chôn lấp không hợp vệ sinh,,,,12.977777777777778,109.30555555555556,,
+58,Long An,Nhà máy xử lý rác Tâm Sinh Nghĩa,,,25,,280-350,Lò đốt 02 cấp/Đang chuyển đổi sang đốt rác phát điện,"Thành phố Tân An, các huyện: Châu Thành, Bến Lức, Tân Thạnh, Tân Trụ, Thạnh Hóa, Đức Hòa và Thủ Thừa",,true,10.609166666666667,106.28,false,false
+59,Long An,Bãi rác xã Tân Lân,,"Tân Lân, Cần Đước, Long An, Việt Nam",,,,,,,true,10.510555555555555,106.65055555555556,false,false
+61,Ba Ria - Vung Tau,Bãi rác Bãi Nhát,,Bến Đầm,0.38,,,Chôn lấp không hợp vệ sinh,Côn Đảo,,true,8.645277777777777,106.60083333333333,false,false
+62,Kien Giang,Bãi rác Mương Đào,,"KP 3, P. Đông Hồ, thành phố Hà Tiên",10,15-20,,Chôn lấp hợp vệ sinh,,,true,10.402222222222223,104.49416666666667,false,false
+63,Kien Giang,Bãi rác huyện Kiên Lương,,"KP Tám Thước, TT Kiên Lương",18.2,8-9,,Chôn lấp hợp vệ sinh,,,false,10.253333333333334,104.63138888888888,true,false
+64,Kien Giang,Bãi chôn lấp thị trấn Tân Hiệp,,"Ấp Tân Quới, xã Tân Hiệp A, huyện Tân Hiệp, KG",0.2,9-10,,Chôn lấp không hợp vệ sinh,,,,10.092777777777778,105.27666666666667,,
+65,Kien Giang,"Bãi chôn lấp xã Bình An, huyện Châu Thành",,"Áp Gò Đất, xã Bình An, huyện Châu Thành",1.2,,,Chôn lấp không hợp vệ sinh,,,true,9.877777777777778,105.17083333333333,false,false
+66,Kien Giang,Bãi rác thị trấn Giồng Riềng,,"ấp Quang Mẫn, TT. Giồng Riềng",0.55,,,Chôn lấp không hợp vệ sinh,,,false,9.9075,105.28666666666666,false,true
+67,Kien Giang,Bãi rác Lục Phi (Gò Quao),,"Ấp 6, xã Vĩnh Hòa Hưng Nam, huyện Gò Quao",1.41,,,Chôn lấp không hợp vệ sinh,,,false,9.758055555555556,105.35472222222222,true,false
+68,Kien Giang,Bãi rác huyện An Biên,,"Ấp Đông Thành, xã Đông Thái, huyện An Biên",2.72,,,Chôn lấp không hợp vệ sinh,,,false,9.768611111111111,105.01444444444445,true,false
+69,Kien Giang,Bãi rác Thị trấn Thứ Mười Một,,"ấp 11A, xã Đông Hưng B, huyện An Minh",0.3,,,Chôn lấp không hợp vệ sinh,,,,9.582777777777778,104.96305555555556,,
+70,Kien Giang,Bãi chôn lấp xã Bình Minh,,"Ấp Bời Lời, xã Bình Minh, huyện Vĩnh Thuận",1.3,,,Chôn lấp không hợp vệ sinh,,,false,9.551111111111112,105.24722222222222,true,false
+71,Kien Giang,"Bãi chôn lấp thị trấn An Thới, Phú Quốc",,"Ấp 7, Thị trấn An Thới",5,,,Chôn lấp không hợp vệ sinh,,,false,10.060555555555556,104.0125,true,false
+72,Kien Giang,"Bãi chôn lấp xã Cửa Dương, Phú Quốc",,"Xã Cửa Dương, Thành phố Phú Quốc",3,,,Chôn lấp không hợp vệ sinh,,,true,10.295277777777777,103.9388888888889,false,false
+73,Kien Giang,"Bãi chôn lấp rác xã Phú Mỹ, huyện Giang Thành",,"Xã Phú Mỹ, huyện Gia Thành",3,,,Chôn lấp không hợp vệ sinh,,,,10.453055555555554,104.55694444444444,,
+74,Kien Giang,Bãi rác thị trấn Sóc Sơn,,"Thị trấn Sóc Sơn, huyện Hòn Đát",,,,,,,true,10.092222222222222,105.025,false,false
